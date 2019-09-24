@@ -14,7 +14,8 @@ public class HolaMundo {
         System.out.println("Probando GitHub_BRANCH");
        // escribe("jooooder");
         escribe("Prueba rama");
-        
+        escribe("Prueba commit rama");
+         escribe("Prueba commit rama2");
     }
     
     private static void escribe(String s){
